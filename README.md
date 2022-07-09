@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/FelisPimeja/felispimeja/blob/main/me.jpeg" alt="Aleksandr Petrov aka Felis Pimeja" style="width:250px" />
-</p>
- <hr></hr>
-<p align="center">
   <samp>
     Hi, I'm Aleksandr! 👋 <br>
     🔥 Skilled GIS Analyst/Engineer always searching for something new and cool  <br>
